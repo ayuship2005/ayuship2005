@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayushi Payal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img width="400" align="right" alt="coding" src="https://github.com/user-attachments/assets/d3c9bd3b-c0d0-479b-abbf-14c802b1c5d0" />
+<img width="300" align="right" alt="coding" src="https://github.com/user-attachments/assets/d3c9bd3b-c0d0-479b-abbf-14c802b1c5d0" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayuship2005&label=Profile%20views&color=0e75b6&style=flat" alt="ayuship2005" /> </p>
 
